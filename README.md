@@ -1,2 +1,2 @@
-# u can use your brain yoo and...
-# this program build for learn and easy to use
+This program just example bro, 
+you can use any LLM for better experience. 
